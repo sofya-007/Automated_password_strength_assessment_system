@@ -1,0 +1,2 @@
+# Automated_password_strength_assessment_system
+Система оценки устойчивости паролей к брутфорс-атакам
