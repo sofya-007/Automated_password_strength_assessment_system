@@ -6,5 +6,7 @@
 Для запуска программы требуется интерпретатор Python версии 3.8 или выше. В терминале или командной строке  необходимо выполнить команду:
 
   python Automated_password_strength_assessment_system.py                        # Интерактивный режим
+  
   python Automated_password_strength_assessment_system.py --recommendations      # Получить CSV с памяткой
+  
   python Automated_password_strength_assessment_system.py --output recs.csv      # Сохранить памятку в файл
